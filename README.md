@@ -24,7 +24,7 @@ Soy un desarrollador con experiencia en bases de datos, PHP, Java, JavaScript AP
 
 ## Contacto
 - **Email:** alejandro.ahp82@gmail.com
-- **GitHub:** [https://github.com/AlejandroHP465](#)
+- **GitHub:** [https://github.com/AlejandroHP465](https://github.com/AlejandroHP465)
 
 ---
 Este portafolio seguirá actualizándose con más proyectos y mejoras. ¡Gracias por visitar!
