@@ -10,17 +10,17 @@ Soy un desarrollador con experiencia en bases de datos, PHP, Java, JavaScript AP
 ### 1. Tienda de Videojuegos (Bases de Datos y PHP)
 - **Descripción:** Aplicación web para la gestión de una tienda de videojuegos.
 - **Tecnologías:** PHP, MySQL, HTML, CSS
-- **Repositorio:** [Tienda-Videojuegos-PHP](https://github.com/tuusuario/Proyecto1)
+- **Repositorio:** [Tienda-Videojuegos-PHP](https://github.com/AlejandroHP465/Proyecto1)
 
 ### 2. Servicios y APIs
 - **Descripción:** Implementación de servicios SOAP, integración de RSS y consumo de API de AEMET.
 - **Tecnologías:** SOAP, XML, PHP, APIs
-- **Repositorio:** [Servicios y APIs](https://github.com/tuusuario/Proyecto2)
+- **Repositorio:** [Servicios y APIs](https://github.com/AlejandroHP465/Proyecto2)
 
 ### 3. Proyecto de Valoracion con Estrellas
 - **Descripción:** Implementación de un sistema de valoración de productos con puntuaciones de 1 a 5 estrellas.
 - **Tecnologías:** JavaScript (Fetch), PHP, MySQL
-- **Repositorio:** [Proyecto de Valoracion con Estrellas](https://github.com/tuusuario/Proyecto3)
+- **Repositorio:** [Proyecto de Valoracion con Estrellas](https://github.com/AlejandroHP465/Proyecto3)
 
 ## Contacto
 - **Email:** alejandro.ahp82@gmail.com
